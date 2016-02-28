@@ -41,6 +41,7 @@
             <div class="content">
                 <div class="title">Laravel 5</div>
                 AHAHA TK
+                <a href="{{route('contact.index')}}">contact index</a>
             </div>
         </div>
     </body>

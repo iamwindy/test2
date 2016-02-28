@@ -15,6 +15,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/contact',array('uses' => 'ContactController@index', 'as'=>"contact.index"));
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
