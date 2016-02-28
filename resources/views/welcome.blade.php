@@ -40,7 +40,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
-                Hello World
+                Hello World asdmasdarasd
             </div>
         </div>
     </body>
