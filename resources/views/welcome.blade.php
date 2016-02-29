@@ -40,7 +40,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
-                HTTP git teszt git tessssssst
+                HTTP git teszt git tessssssst22222222222222222
                 <a href="{{route('contact.index')}}">contact index</a>
             </div>
         </div>
